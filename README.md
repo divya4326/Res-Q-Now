@@ -58,6 +58,7 @@ In emergency situations, delayed ambulance responses can significantly increase 
 - 💡 **Improved Patient Outcomes**
 
 ---
+> ⚠️ Note: This project is a prototype/MVP and is under active development. Contributions and suggestions are welcome!
 
 
 ## 🧑‍💻 Team
